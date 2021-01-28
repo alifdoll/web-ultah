@@ -1,0 +1,90 @@
+body {
+    margin: 0px;
+    background-color: black;
+    font-family: "LEMON MILK";
+}
+
+a {
+    text-decoration: none;
+}
+
+.container {
+    width: 1170px;
+    margin: 0 auto;
+    padding: 0 15px;
+}
+
+header {
+    text-align: center;
+    height: 200px;
+    width: 100%;
+    margin-top: 20px;
+    margin-bottom: 20px;
+}
+
+header h2 {
+    position: relative;
+    font-style: italic;
+    font-size: 180px;
+}
+
+#weird-one {
+    line-height: 190px;
+    color:black;
+    z-index: 11;
+    -webkit-text-stroke: 7px white;
+}
+
+#weird-two {
+    line-height: 100px;
+    color: white;
+    z-index: 12;
+    right: 20px;
+    bottom: 305px;
+    -webkit-text-stroke: 7px white;
+}
+
+.name-chara {
+    text-align: center;
+    height: 65px;
+    width: 100%;
+    color: white;
+}
+
+.social-media {
+    height:100px;
+    width: 400px;
+    margin: 0 auto;
+    padding: 0 0;
+}
+
+.logo {
+    float: left;
+    border: white solid 2px;
+    border-radius: 40px;
+    padding: 10px 15px;
+}   
+
+.btn {
+    display: inline-block;
+    color: white;
+}
+
+.image-chara {
+    text-align: center;
+    margin-top: 50px;
+    margin-bottom: 50px;
+}
+
+.image-chara img {
+    height: 1000px;
+    width: 1000PX;
+}
+
+.fa {
+    margin-right: 5px;
+}
+
+.plus {
+    margin-right: 10px;
+}

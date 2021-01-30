@@ -19,13 +19,13 @@
             </div>
             <div class="social-media">
                 <div class="logo plus">
-                    <a href="#" class="btn"><span class="fa fa-twitter"></span>twitter</a>
+                    <a href="https://twitter.com/Febinetsui_ID/status/1354674289790787586?s=20" class="btn"><span class="fa fa-twitter"></span>Twitter</a>
                 </div>
                 <div class="logo plus">
-                    <a href="#" class="btn"><span class="fa fa-instagram"></span>instagram</a>
+                    <a href="#" class="btn"><span class="fa fa-instagram"></span>Book</a>
                 </div>
                 <div class="logo">
-                    <a href="#" class="btn"><span class="fa fa-video-camera"></span>video</a>
+                    <a href="#" class="btn"><span class="fa fa-video-camera"></span>Podcast</a>
                 </div>
             </div>
             <div class="image-chara">

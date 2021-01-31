@@ -15,52 +15,39 @@ a {
 }
 
 header {
-    text-align: center;
-    height: 200px;
+    height: 100px;
     width: 100%;
-    margin-top: 20px;
-    margin-bottom: 20px;
+    margin-bottom: 100px;
 }
 
-header h2 {
-    position: relative;
-    font-style: italic;
-    font-size: 180px;
-}
-
-#weird-one {
-    line-height: 190px;
-    color:black;
-    z-index: 11;
-    -webkit-text-stroke: 7px white;
-}
-
-#weird-two {
-    line-height: 100px;
-    color: white;
-    z-index: 12;
-    right: 20px;
-    bottom: 305px;
-    -webkit-text-stroke: 7px white;
+header img {
+    width: 1200px;
+    height: 200px;
 }
 
 .name-chara {
-    text-align: center;
     height: 65px;
     width: 100%;
     color: white;
+    display: flex;
+    justify-content: center;
+    line-height: 5px;
+    padding-left: 10px;
+    font-size: 30px;
+    margin-bottom: 50px;
 }
 
 .social-media {
     height:100px;
-    width: 400px;
+    width: 100%;
     margin: 0 auto;
     padding: 0 0;
+    display: flex;
+    justify-content: center;
 }
 
 .logo {
-    float: left;
-    padding: 10px 15px;
+    padding-left: 15px;
 }   
 
 .btn {
@@ -79,15 +66,8 @@ header h2 {
     width: 1000PX;
 }
 
-.fa {
-    margin-right: 5px;
-}
-
-.plus {
-    margin-right: 10px;
-}
-
 .social-media a{
+    font-size: 25px;
     font-weight: bold;
     font-style: italic;
 }

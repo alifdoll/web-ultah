@@ -1,7 +1,7 @@
 <html>
     <head>
         <meta charset="utf-8">
-        <title>Endless Journey</title>
+        <title>ENDLESS JOURNEY</title>
         <link rel="shortcut icon" type="image" href="Asset/icon.jpg">
         <link rel="stylesheet" href="Source/IndexStyle.css">
         <link rel="stylesheet" href="Source/ResponsiveIndex.css">

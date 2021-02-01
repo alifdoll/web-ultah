@@ -1,0 +1,6 @@
+deployment:
+ tasks:
+ - export DEPLOYPATH=/home/u3222044/public_html/
+ -  index.php $DEPLOYPATH
+ - /Source/IndexStyle.css $DEPLOYPATH
+ - /Source/ResponsiveIndex.css $DEPLOYPATH

@@ -1,6 +1,13 @@
+---
 deployment:
- tasks:
- - export DEPLOYPATH=/home/u3222044/public_html/
- -  index.php $DEPLOYPATH
- - /Source/IndexStyle.css $DEPLOYPATH
- - /Source/ResponsiveIndex.css $DEPLOYPATH
+  tasks:
+    - export DEPLOYPATH=/home/u3222044/public_html/
+    - /bin/cp index.php $DEPLOYPATH
+    - /bin/cp IndexStyle.css $DEPLOYPATH
+    - /bin/cp ResponsiveIndex.css $DEPLOYPATH
+    - /bin/cp LEMONMILK-Regular.otf $DEPLOYPATH
+    - /bin/cp afebi.png $DEPLOYPATH
+    - /bin/cp ej.png $DEPLOYPATH
+    - /bin/cp icon.jpg $DEPLOYPATH
+    - /bin/cp kafebi_azriel.mp4 $DEPLOYPATH
+    - /bin/cp Osinya Azriel.png $DEPLOYPATH

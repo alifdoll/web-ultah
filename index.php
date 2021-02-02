@@ -1,7 +1,7 @@
 <html>
     <head>
         <meta charset="utf-8">
-        <title>Endles Journey</title>
+        <title>Endless Journey</title>
         <link rel="shortcut icon" type="image" href="Asset/icon.jpg">
         <link rel="stylesheet" href="Source/IndexStyle.css">
         <link rel="stylesheet" href="Source/ResponsiveIndex.css">
@@ -32,6 +32,11 @@
             </div>
             <div class="image-chara">
                 <img src="Asset/Osinya Azriel.png">
+            </div>
+            <div class="top-wrapper">
+                <video autoplay loop muted>
+                    <source src="Asset/kafebi_azriel.mp4" type="video/mp4">
+                </video>
             </div>
         </main>
         <footer>

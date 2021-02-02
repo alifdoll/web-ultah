@@ -1,11 +1,12 @@
 <html>
     <head>
         <meta charset="utf-8">
-        <title>Endless Journey</title>
+        <title>Endles Journey</title>
         <link rel="shortcut icon" type="image" href="Asset/icon.jpg">
         <link rel="stylesheet" href="Source/IndexStyle.css">
         <link rel="stylesheet" href="Source/ResponsiveIndex.css">
-        <link href="https://fonts.googleapis.com/css2?family=Bebas+Neue&display=swap" rel="stylesheet">
+        <link rel="preconnect" href="https://fonts.gstatic.com">
+        <link href="https://fonts.googleapis.com/css2?family=Carter+One&display=swap" rel="stylesheet">
         <link rel="stylesheet" href="//maxcdn.bootstrapcdn.com/font-awesome/4.3.0/css/font-awesome.min.css">
     </head>
     <body>

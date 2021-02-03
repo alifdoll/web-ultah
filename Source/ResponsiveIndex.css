@@ -1,0 +1,40 @@
+@media all and (max-width: 1024px) {
+    header {
+        width: 100%;
+        display: unset;
+    }
+
+    .respo img {
+        width: 95%;
+        height: 15%;
+        margin: auto 30px;
+    }
+
+    .container {
+        width: 100%;
+    }
+
+    .top-wrapper {
+        height: 500px;
+    }
+
+    .top-wrapper video {
+        width: 1050px;
+    }
+}
+
+@media all and (max-width: 1000px) {
+    .respo img {
+        width: 90%;
+        height: 10%;
+        margin: auto 70px;
+    }
+
+    .container {
+        width: 100%;
+    }
+
+    .top-wrapper video {
+        width: 1035px;
+    }
+}
